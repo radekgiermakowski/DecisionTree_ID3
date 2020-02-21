@@ -1,0 +1,14 @@
+S,G,W,SL
+S,G,W,SI
+P,G,W,SL
+D,L,W,SL
+D,Z,N,SL
+D,Z,N,SI
+P,Z,N,SI
+S,L,W,SL
+S,Z,N,SL
+D,L,N,SL
+S,L,N,SI
+P,L,W,SI
+P,G,N,SL
+D,L,W,SI

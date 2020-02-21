@@ -1,0 +1,14 @@
+0,S,G,W
+0,S,G,W
+1,P,G,W
+1,D,L,W
+1,D,Z,N
+0,D,Z,N
+1,P,Z,N
+0,S,L,W
+1,S,Z,N
+1,D,L,N
+1,S,L,N
+1,P,L,W
+1,P,G,N
+0,D,L,W
