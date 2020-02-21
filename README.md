@@ -10,7 +10,7 @@ The project consists of two components. The first one is a static library respon
 Project is created with:
 * C++ 17
 * Boost 1.60
-* Cmake 3.10
+* CMake 3.10
 * Catch2
 	
 ## Setup
